@@ -7,7 +7,6 @@
 ---
 
 ## 📝 Tóm tắt
-Kỹ sư phần mềm.  
 Thích làm sản phẩm Game Unity.
 
 ---
