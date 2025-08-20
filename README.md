@@ -1,16 +1,23 @@
-## Hi there 👋
+# 💻 NGUYEN PHUONG SINH
 
-<!--
-**NP-Sinh/NP-Sinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend / Mobile Developer**  
+📍 TP.HCM, Việt Nam | ✉️ npsinh6103@gmail.com | 📞 +84 774 777 621  
+🌐 [GitHub](https://github.com/NP-Sinh) | [Facebook](https://www.facebook.com/nguyen.phuong.sinh.6103)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Tóm tắt
+Kỹ sư phần mềm.  
+Thích làm sản phẩm Game Unity.
+
+---
+
+## 🛠 Kỹ năng chính
+- **Ngôn ngữ**: C#, Dart  
+- **Backend**: .NET 8 / ASP.NET Core  
+- **Mobile**: Flutter / Dart  
+- **Database**: SQL Server, PostgreSQL, MongoDB.  
+
+
+## 🎯 Sở thích
+🐧 Open-source | 🎮 Unity/Game | 📸 Photography
