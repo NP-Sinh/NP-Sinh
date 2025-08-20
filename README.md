@@ -15,7 +15,7 @@ Thích làm sản phẩm Game Unity.
 - **Ngôn ngữ**: C#, Dart  
 - **Backend**: .NET 8 / ASP.NET Core  
 - **Mobile**: Flutter / Dart  
-- **Database**: SQL Server, PostgreSQL, MongoDB.  
+- **Database**: SQL Server.  
 
 
 ## 🎯 Sở thích
