@@ -12,7 +12,7 @@ Thích làm sản phẩm Game Unity.
 ---
 
 ## 🛠 Kỹ năng chính
-- **Ngôn ngữ**: C#, Dart  
+- **Ngôn ngữ**: C#  
 - **Backend**: .NET 8 / ASP.NET Core  
 - **Mobile**: Flutter / Dart  
 - **Database**: SQL Server.  
