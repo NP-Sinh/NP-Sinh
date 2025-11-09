@@ -4,19 +4,5 @@
 📍 TP.HCM, Việt Nam | ✉️ npsinh6103@gmail.com | 📞 +84 774 777 xxx  
 🌐 [GitHub](https://github.com/NP-Sinh) | [Facebook](https://www.facebook.com/nguyen.phuong.sinh.6103)
 
----
-
-## 📝 Tóm tắt
-Thích làm sản phẩm Game Unity.
-
----
-
-## 🛠 Kỹ năng chính
-- **Ngôn ngữ**: C#  
-- **Backend**: .NET 8 / ASP.NET Core  
-- **Mobile**: Flutter / Dart  
-- **Database**: SQL Server.  
-
-
 ## 🎯 Sở thích
 🐧 Open-source | 🎮 Unity/Game | 📸 Photography
